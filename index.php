@@ -240,7 +240,7 @@ if ($phrase != "") {
 
 // Page
 ?>
-<form action="./" method="get">
+<form action="" method="get">
 <table id="changes">
 	<tr>
 		<td style="width:300px">
