@@ -8,9 +8,10 @@ $methods = array("ASCII","Alphanumeric","URL","Integer");
 <html>
 <head>
 <title>ColourFul Encoder</title>
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=EB+Garamond" />
 <style>
 body {
-    font-family: garamond;
+    font-family: 'EB Garamond';
 
 }
 .left {
