@@ -1,3 +1,0 @@
-RewriteEngine on
-
-RewriteRule ^demo$ index.php?phrase=JP+Hastings-Spital&theme=Rainbow&method=ASCII&offset=0&spread=0&bs=40&width=8&save=0 [L]
